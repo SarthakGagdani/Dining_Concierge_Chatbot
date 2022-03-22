@@ -12,3 +12,10 @@ Customer Service is a core service for a lot of businesses around the world and 
 \
 \
 <img width="578" alt="architecture" src="https://github.com/SarthakGagdani/Dining_Concierge_Chatbot/blob/6d4d4360feba1cc343a858175098515c1a476b44/Architecture.png">
+
+\
+\
+
+
+https://user-images.githubusercontent.com/31386718/159389790-330ea1b1-affe-4c09-a588-a0d6a643b52f.mp4
+
